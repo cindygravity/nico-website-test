@@ -2,7 +2,32 @@
 
 Stand: 13.10.2026. Testfassung zum Zeigen, online unter https://cindygravity.github.io/nico-website-test/ (`noindex` ist gesetzt). Die offizielle Seite bleibt die bei Wix.
 
-Online aktualisieren: `python3 build.py`, committen, `git push`, dann `git subtree push --prefix site origin gh-pages`.
+## Bilder pflegen: „Website bearbeiten"
+
+Doppelklick auf **`Website bearbeiten.command`**. Der Browser öffnet die Seite mit einer dunklen Leiste oben.
+
+- **Hinzufügen:** In einer Galerie Bilder auf die Fläche „+ Bilder hinzufügen" ziehen oder sie anklicken. Mehrere auf einmal gehen. Neue Bilder stehen vorn.
+- **Angaben:** Bild anklicken. Rechts stehen Titel, Maße, Jahr, Technik und „private collection". Gespeichert wird von selbst.
+- **Reihenfolge:** Bild an die neue Stelle ziehen.
+- **Löschen:** Bild anklicken, „Bild löschen", zur Bestätigung noch einmal klicken.
+- **Verwerfen:** setzt alles auf den zuletzt veröffentlichten Stand zurück.
+- **Veröffentlichen:** lädt den Stand hoch. Etwa eine Minute später ist er online.
+
+Bis zum Klick auf „Veröffentlichen" ändert sich online nichts. Das schwarze Fenster, das beim Start aufgeht, bleibt offen, solange man arbeitet.
+
+Hochgeladene Originale bleiben zusätzlich in `originals/` auf dem Rechner liegen (nicht online).
+Bearbeiten lassen sich die elf Galerien. Startseite, Vita, Events, Press und Contact noch nicht.
+
+Zum Ausprobieren ohne Hochladen: `python3 admin/server.py --no-push` (Leiste ist dann braun).
+
+### Einrichtung auf einem neuen Mac (einmalig)
+
+1. Terminal öffnen, `xcode-select --install` eingeben, den Dialog bestätigen. Das bringt Python und Git mit.
+2. Projektordner auf den Rechner holen (`git clone …`).
+3. GitHub-Zugang hinterlegen: beim ersten „Veröffentlichen" fragt Git nach Benutzername und Zugangsschlüssel und merkt sie sich im Schlüsselbund.
+4. Beim ersten Doppelklick auf die `.command`-Datei fragt macOS nach: Rechtsklick → „Öffnen" → „Öffnen".
+
+Online gebaut wird durch `.github/workflows/pages.yml`: Jeder Stand auf `main` wird veröffentlicht, Quelle ist der Ordner `site/`.
 
 Statische Seite ohne Framework. Der Ordner `site/` ist die fertige Website und kann so auf GitHub Pages.
 
@@ -25,6 +50,8 @@ Dann http://localhost:8010 öffnen. Nicht per Doppelklick auf die HTML-Datei, so
 | `build.py` | Erzeugt aus `data/` und `templates/` die HTML-Dateien in `site/` |
 | `site/css/style.css`, `site/js/gallery.js` | Aussehen, Raster, Großansicht, Menü |
 | `site/img/<seite>/thumb` und `/large` | Bilder, lange Kante 800px und 2000px |
+| `admin/` | Die Bearbeitungs-App: `server.py` (lokaler Server), `edit.js`, `edit.css` |
+| `Website bearbeiten.command` | Starter per Doppelklick |
 | `tools/scrape.py` | Einmaliger Abzug von Wix. Wird nach dem Umzug nicht mehr gebraucht |
 
 Nach jeder Änderung in `data/` oder `templates/`: `python3 build.py`.
