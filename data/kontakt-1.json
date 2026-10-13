@@ -1,0 +1,20 @@
+{
+  "slug": "kontakt-1",
+  "key": "kontakt-1",
+  "label": "CONTACT",
+  "blocks": [
+    {
+      "id": "comp-l5ib2dsd",
+      "html": "<h6 class=\"font_6\" style=\"font-size:24px;\"><span style=\"font-size:24px;\">CONTA</span><span style=\"font-size:24px;\">CT</span><br>\n<br>\n<br>\n<span style=\"letter-spacing:0em;\"><span style=\"font-size:21px;\">Alfons-H&auml;rtel-Weg. 23</span><span style=\"font-size:21px;\">, 70567 Stuttgart</span><br>\n<a href=\"tel:00491637966140\"><span style=\"font-size:21px;\">+49 163 7966140</span></a></span></h6>"
+    },
+    {
+      "id": "comp-l5ibfzmv",
+      "html": "<h6 class=\"font_6\" style=\"font-size:21px;\"><a href=\"mailto:nicolas.schuetzinger@gmail.com\" target=\"_self\"><span style=\"font-size:21px;\">nicolas.schuetzinger@gmail.com</span></a></h6>"
+    },
+    {
+      "id": "comp-l6tb0wix",
+      "html": "<h6 class=\"font_6\" style=\"font-size:24px;\"><span style=\"font-weight:bold;\"><span><span style=\"font-size:21px; letter-spacing:0em;\">If you are&nbsp;</span><span style=\"font-size:21px;\">interested</span><span style=\"font-size:21px; letter-spacing:0em;\">&nbsp;in more paintings you can ask for the full catalog via email</span></span></span></h6>\n\n<p class=\"font_2\" style=\"line-height:1.2em; font-size:28px;\"><span style=\"font-weight:bold;\"><span><span style=\"font-size:21px; letter-spacing:0em;\">&nbsp;</span></span></span></p>\n\n<p class=\"font_2\" style=\"line-height:1.2em; font-size:28px;\"><span style=\"font-weight:bold;\"><span><span style=\"font-size:21px; letter-spacing:0em;\">There is a newsletter with new paintings, information about projects, and exhibition announcements. If you are interested, simply send an email requesting to be added to the mailing list. New issues are published approximately every two months.</span></span></span></p>\n\n<p class=\"font_2\" style=\"line-height:1.2em; font-size:28px;\"><span style=\"font-weight:bold;\"><span><span style=\"font-size:21px; letter-spacing:0em;\"><span>​</span></span></span></span></p>\n\n<p class=\"font_2\" style=\"line-height:1.2em; font-size:28px;\"><span style=\"font-weight:bold;\"><span><span style=\"font-size:21px; letter-spacing:0em;\"><span>​</span></span></span></span></p>\n\n<p class=\"font_2\" style=\"line-height:1.2em; font-size:28px;\"><span><span style=\"font-size:21px; font-weight:bold; letter-spacing:0em;\">Wenn Sie an weiteren Gem&auml;lden&nbsp;</span><span style=\"font-size:21px; font-weight:bold;\">Interesse&nbsp;</span><span style=\"font-size:21px; font-weight:bold; letter-spacing:0em;\">haben, k&ouml;nnen Sie den vollst&auml;ndigen Katalog per&nbsp; E-Mail anfordern</span></span></p>\n\n<p class=\"font_2\" style=\"line-height:1.2em; font-size:28px;\"><span><span style=\"font-size:21px; font-weight:bold; letter-spacing:0em;\"><span>​</span></span></span></p>\n\n<p class=\"font_2\" style=\"line-height:1.2em; font-size:28px;\"><span><span style=\"font-size:21px; font-weight:bold; letter-spacing:0em;\">Es gibt einen Newsletter mit neuen Werken, </span><span style=\"font-size:21px; font-weight:700;\">Informationen</span><span style=\"font-size:21px; font-weight:bold; letter-spacing:0em;\">&nbsp;zu Projekten und&nbsp;</span></span><span style=\"font-size:21px; font-weight:700;\">Ausstellungshinweisen. Bei Interesse einfach eine Mail schreiben mit bitte in den Verteiler aufgenommen zu werden. Neue Ausgabe ca. alle 2 Monate.&nbsp;</span></p>"
+    }
+  ],
+  "items": []
+}

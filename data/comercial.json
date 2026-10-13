@@ -1,0 +1,99 @@
+{
+  "slug": "comercial",
+  "key": "comercial",
+  "label": "COMERCIAL",
+  "blocks": [],
+  "items": [
+    {
+      "file": "01-fischtage-cover-eni.jpg",
+      "title": "FISCHTAGE COVER - ENI",
+      "description": "90 x 70cm\noil on cardboard\n2024\nprivate collection",
+      "alt": "",
+      "width": 3720,
+      "height": 4649,
+      "wix_id": "289cd7dd-9016-48c5-834e-a4056880ca6b",
+      "wix_media": "08a32c_a351596579bb43dcade175a4346bb8d2~mv2.jpg"
+    },
+    {
+      "file": "02-fischtage.jpg",
+      "title": "FISCHTAGE",
+      "description": "Author Charlotte Brandi\npark x ullstein",
+      "alt": "",
+      "width": 3840,
+      "height": 2531,
+      "wix_id": "90ab69f4-832f-4fc4-96db-f37bbb5535aa",
+      "wix_media": "08a32c_5022406b0bfd4b58ac8658ad5dd4ddce~mv2.webp"
+    },
+    {
+      "file": "03-cogitat-frotside.jpg",
+      "title": "COGITAT FROTSIDE",
+      "description": "Album by Nils Edte\nTypography and Layout by Ludwig Rensch\n2026",
+      "alt": "",
+      "width": 3686,
+      "height": 3686,
+      "wix_id": "bd00fb42-0694-472d-aa33-31eb93bbcfc2",
+      "wix_media": "08a32c_d05ae9df5f164a52a3372b7d248c53dc~mv2.jpg"
+    },
+    {
+      "file": "04-cogitat-backside.jpg",
+      "title": "COGITAT BACKSIDE",
+      "description": "Album by Nils Edte\nTypography and Layout by Ludwig Rensch\n2026",
+      "alt": "",
+      "width": 3756,
+      "height": 3686,
+      "wix_id": "d10df7d9-acf8-4d8b-991c-441ff4fe0685",
+      "wix_media": "08a32c_8b5772865dea47b5a39fa7ec44ef27e8~mv2.jpg"
+    },
+    {
+      "file": "05-cogitat.jpg",
+      "title": "COGITAT",
+      "description": "Producer Nils Edte\nPredawn Records",
+      "alt": "",
+      "width": 2400,
+      "height": 1700,
+      "wix_id": "8d1e27e2-8946-4736-9016-c1a2c416be62",
+      "wix_media": "08a32c_510c70901a044dfd8edd7d63e3a4a19b~mv2.jpg"
+    },
+    {
+      "file": "06-cogitat-remix-frontside.jpg",
+      "title": "COGITAT REMIX FRONTSIDE",
+      "description": "Remixes by Joachim Spieth & Dolde\nTypography and Layout by Ludwig Rensch\n2026",
+      "alt": "",
+      "width": 3130,
+      "height": 3130,
+      "wix_id": "79420aff-6766-440a-8554-1ff4098e6607",
+      "wix_media": "08a32c_e561a1832c8e4e6981b583935063eafc~mv2.jpg"
+    },
+    {
+      "file": "07-cogitat-remix-backside.jpg",
+      "title": "COGITAT REMIX BACKSIDE",
+      "description": "Remixes by Joachim Spieth & Dolde\nTypography and Layout by Ludwig Rensch\n2026",
+      "alt": "",
+      "width": 3130,
+      "height": 3130,
+      "wix_id": "09102789-a498-4cc2-93d4-21b4d7c9abdc",
+      "wix_media": "08a32c_6bee28da7c154085b79f312674272454~mv2.jpg"
+    },
+    {
+      "file": "08-cogtat-remix.jpg",
+      "title": "COGTAT REMIX",
+      "description": "Remixes Joachim Spieth & Doltz\nPredawn Records",
+      "alt": "",
+      "width": 2660,
+      "height": 1856,
+      "wix_id": "e937fcf0-6d87-4bc6-85a8-e1043e1fc946",
+      "wix_media": "08a32c_1097779471bc45328b3fa0827b95968a~mv2.jpg"
+    },
+    {
+      "file": "09-cogitat-remix.jpg",
+      "title": "COGITAT & REMIX",
+      "description": "Cogitat bundle\nPredawn Records",
+      "alt": "",
+      "width": 2400,
+      "height": 1700,
+      "wix_id": "2365a366-5db2-4ac8-8a9e-a34c63b8e512",
+      "wix_media": "08a32c_0658db471d52496e8c76987c213ab7e6~mv2.jpg"
+    }
+  ],
+  "gallery_id": "comp-mtfnaid3"
+}

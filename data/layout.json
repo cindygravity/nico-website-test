@@ -1,0 +1,675 @@
+{
+ "home": {
+  "gallery": {
+   "type": "grid",
+   "desktop": {
+    "top": 0,
+    "side": 64,
+    "gap": 120,
+    "bottom": 17,
+    "cols": 2
+   },
+   "mobile": {
+    "top": 24,
+    "side": 20,
+    "gap": 50,
+    "bottom": 286
+   }
+  }
+ },
+ "painting": {
+  "gallery": {
+   "type": "rows",
+   "desktop": {
+    "top": 0,
+    "side": 84,
+    "gap": 60,
+    "bottom": 22,
+    "target": 360
+   },
+   "mobile": {
+    "top": 24,
+    "side": 0,
+    "gap": 49,
+    "bottom": 0
+   }
+  }
+ },
+ "abstract-painting": {
+  "gallery": {
+   "type": "rows",
+   "desktop": {
+    "top": 0,
+    "side": 84,
+    "gap": 60,
+    "bottom": 1,
+    "target": 360
+   },
+   "mobile": {
+    "top": 0,
+    "side": 0,
+    "gap": 49,
+    "bottom": 0
+   }
+  }
+ },
+ "illustration": {
+  "gallery": {
+   "type": "rows",
+   "desktop": {
+    "top": 0,
+    "side": 84,
+    "gap": 60,
+    "bottom": 0,
+    "target": 360
+   },
+   "mobile": {
+    "top": 0,
+    "side": 0,
+    "gap": 49,
+    "bottom": 0
+   }
+  }
+ },
+ "abstract-graphic": {
+  "gallery": {
+   "type": "rows",
+   "desktop": {
+    "top": 20,
+    "side": 84,
+    "gap": 60,
+    "bottom": 587,
+    "target": 360
+   },
+   "mobile": {
+    "top": 40,
+    "side": 20,
+    "gap": 49,
+    "bottom": 20
+   }
+  }
+ },
+ "drawing": {
+  "gallery": {
+   "type": "rows",
+   "desktop": {
+    "top": 10,
+    "side": 84,
+    "gap": 60,
+    "bottom": 11,
+    "target": 360
+   },
+   "mobile": {
+    "top": 20,
+    "side": 0,
+    "gap": 49,
+    "bottom": 0
+   }
+  }
+ },
+ "graphic": {
+  "gallery": {
+   "type": "rows",
+   "desktop": {
+    "top": 0,
+    "side": 84,
+    "gap": 60,
+    "bottom": 34,
+    "target": 360
+   },
+   "mobile": {
+    "top": 0,
+    "side": 0,
+    "gap": 49,
+    "bottom": 0
+   }
+  }
+ },
+ "erotic": {
+  "gallery": {
+   "type": "rows",
+   "desktop": {
+    "top": 10,
+    "side": 84,
+    "gap": 60,
+    "bottom": -10,
+    "target": 360
+   },
+   "mobile": {
+    "top": 0,
+    "side": 0,
+    "gap": 49,
+    "bottom": 0
+   }
+  }
+ },
+ "leonce-lena": {
+  "gallery": {
+   "type": "rows",
+   "desktop": {
+    "top": 0,
+    "side": 84,
+    "gap": 60,
+    "bottom": 0,
+    "target": 360
+   },
+   "mobile": {
+    "top": 0,
+    "side": 0,
+    "gap": 49,
+    "bottom": 0
+   }
+  }
+ },
+ "body": {
+  "gallery": {
+   "type": "columns",
+   "desktop": {
+    "top": 10,
+    "side": 84,
+    "gap": 60,
+    "bottom": 10,
+    "target": 360
+   },
+   "mobile": {
+    "top": 40,
+    "side": 0,
+    "gap": 49,
+    "bottom": 20
+   }
+  }
+ },
+ "projects-7": {
+  "gallery": {
+   "type": "columns",
+   "desktop": {
+    "top": 0,
+    "side": 93,
+    "gap": 60,
+    "bottom": 0,
+    "target": 360
+   },
+   "mobile": {
+    "top": 20,
+    "side": 20,
+    "gap": 49,
+    "bottom": 20
+   }
+  }
+ },
+ "comercial": {
+  "gallery": {
+   "type": "fixed",
+   "desktop": {
+    "top": 10,
+    "side": 74,
+    "gap": 60,
+    "bottom": 10,
+    "base_width": 1060,
+    "boxes": [
+     [
+      0,
+      0,
+      152,
+      190
+     ],
+     [
+      212,
+      0,
+      288,
+      190
+     ],
+     [
+      560,
+      0,
+      218,
+      218
+     ],
+     [
+      838,
+      0,
+      222,
+      218
+     ],
+     [
+      0,
+      250,
+      258,
+      182
+     ],
+     [
+      318,
+      250,
+      182,
+      182
+     ],
+     [
+      560,
+      278,
+      181,
+      181
+     ],
+     [
+      801,
+      278,
+      259,
+      181
+     ],
+     [
+      0,
+      492,
+      500,
+      354
+     ]
+    ]
+   },
+   "mobile": {
+    "top": 20,
+    "side": 20,
+    "gap": 49,
+    "bottom": 20
+   }
+  }
+ },
+ "vita": {
+  "parts": [
+   {
+    "kind": "slider",
+    "gap_d": 10,
+    "gap_m": 8,
+    "desktop": {
+     "top": 14,
+     "left": 45,
+     "width": 1050,
+     "height": 321
+    },
+    "mobile": {
+     "top": 20,
+     "left": 20,
+     "width": 276,
+     "height": 85
+    },
+    "item_d": 241,
+    "item_m": 64
+   },
+   {
+    "kind": "text",
+    "id": "comp-l6rrtves",
+    "scale": 0.6429,
+    "desktop": {
+     "top": 119,
+     "left": 45,
+     "width": 478
+    },
+    "mobile": {
+     "top": 32,
+     "left": 21,
+     "width": 244
+    }
+   },
+   {
+    "kind": "text",
+    "id": "comp-l6rsjg8z",
+    "scale": 0.5455,
+    "desktop": {
+     "top": 46,
+     "left": 45,
+     "width": 900
+    },
+    "mobile": {
+     "top": 15,
+     "left": 21,
+     "width": 280
+    }
+   },
+   {
+    "kind": "text",
+    "id": "comp-j7qcx5w3",
+    "scale": 0.6429,
+    "desktop": {
+     "top": 65,
+     "left": 45,
+     "width": 400
+    },
+    "mobile": {
+     "top": 37,
+     "left": 21,
+     "width": 250
+    }
+   },
+   {
+    "kind": "text",
+    "id": "comp-j7qcx5w1",
+    "scale": 0.5455,
+    "desktop": {
+     "top": 49,
+     "left": 45,
+     "width": 905
+    },
+    "mobile": {
+     "top": 10,
+     "left": 22,
+     "width": 280
+    }
+   },
+   {
+    "kind": "text",
+    "id": "comp-l5jlzh6x",
+    "scale": 0.4464,
+    "desktop": {
+     "top": 44,
+     "left": 45,
+     "width": 980
+    },
+    "mobile": {
+     "top": 10,
+     "left": 21,
+     "width": 280
+    }
+   },
+   {
+    "kind": "text",
+    "id": "comp-l5jlumky",
+    "scale": 0.5,
+    "desktop": {
+     "top": 29,
+     "left": 45,
+     "width": 640
+    },
+    "mobile": {
+     "top": 9,
+     "left": 22,
+     "width": 264
+    }
+   },
+   {
+    "kind": "text",
+    "id": "comp-j7qcxh50",
+    "scale": 0.6429,
+    "desktop": {
+     "top": 52,
+     "left": 45,
+     "width": 400
+    },
+    "mobile": {
+     "top": 11,
+     "left": 21,
+     "width": 250
+    }
+   },
+   {
+    "kind": "text",
+    "id": "comp-j7qcxh51",
+    "scale": 0.5455,
+    "desktop": {
+     "top": 43,
+     "left": 45,
+     "width": 640
+    },
+    "mobile": {
+     "top": 10,
+     "left": 22,
+     "width": 249
+    }
+   }
+  ],
+  "bottom_desktop": 110,
+  "bottom_mobile": 0,
+  "anchor_left": 110
+ },
+ "kontakt-1": {
+  "parts": [
+   {
+    "kind": "text",
+    "id": "comp-l5ib2dsd",
+    "scale": 0.875,
+    "desktop": {
+     "top": 49,
+     "left": 0,
+     "width": 980
+    },
+    "mobile": {
+     "top": 40,
+     "left": 20,
+     "width": 280
+    }
+   },
+   {
+    "kind": "text",
+    "id": "comp-l5ibfzmv",
+    "scale": 0.8571,
+    "desktop": {
+     "top": 0,
+     "left": 0,
+     "width": 999
+    },
+    "mobile": {
+     "top": 10,
+     "left": 20,
+     "width": 280
+    }
+   },
+   {
+    "kind": "social",
+    "links": [
+     [
+      "facebook",
+      "https://www.facebook.com/nico.schutzinger"
+     ],
+     [
+      "instagram",
+      "https://www.instagram.com/nicingr/"
+     ]
+    ],
+    "desktop": {
+     "top": 39,
+     "left": 0,
+     "width": 49,
+     "height": 24
+    },
+    "mobile": {
+     "top": 21,
+     "left": 20,
+     "width": 49,
+     "height": 24
+    }
+   },
+   {
+    "kind": "text",
+    "id": "comp-l6tb0wix",
+    "scale": 0.75,
+    "desktop": {
+     "top": 79,
+     "left": 0,
+     "width": 910
+    },
+    "mobile": {
+     "top": 21,
+     "left": 38,
+     "width": 244
+    }
+   }
+  ],
+  "bottom_desktop": 502,
+  "bottom_mobile": 219
+ },
+ "press": {
+  "parts": [
+   {
+    "kind": "text",
+    "id": "comp-l6rwh8t0",
+    "scale": 0.6667,
+    "desktop": {
+     "top": 27,
+     "left": 0,
+     "width": 980
+    },
+    "mobile": {
+     "top": 20,
+     "left": 38,
+     "width": 244
+    }
+   },
+   {
+    "kind": "text",
+    "id": "comp-l6rwse1m",
+    "scale": 0.6667,
+    "desktop": {
+     "top": 80,
+     "left": 0,
+     "width": 980
+    },
+    "mobile": {
+     "top": 10,
+     "left": 38,
+     "width": 244
+    }
+   },
+   {
+    "kind": "text",
+    "id": "comp-l6rwwb07",
+    "scale": 0.6667,
+    "desktop": {
+     "top": 89,
+     "left": 0,
+     "width": 980
+    },
+    "mobile": {
+     "top": 9,
+     "left": 38,
+     "width": 244
+    }
+   },
+   {
+    "kind": "text",
+    "id": "comp-l6rx23nz",
+    "scale": 0.6667,
+    "desktop": {
+     "top": 92,
+     "left": 0,
+     "width": 980
+    },
+    "mobile": {
+     "top": 11,
+     "left": 38,
+     "width": 244
+    }
+   }
+  ],
+  "bottom_desktop": 46,
+  "bottom_mobile": 20
+ },
+ "events": {
+  "parts": [
+   {
+    "kind": "slider",
+    "gap_d": 10,
+    "gap_m": 8,
+    "desktop": {
+     "top": 18,
+     "left": 5,
+     "width": 970,
+     "height": 409
+    },
+    "mobile": {
+     "top": 20,
+     "left": 20,
+     "width": 276,
+     "height": 107
+    },
+    "item_d": 290.2,
+    "item_m": 76.4
+   },
+   {
+    "kind": "text",
+    "id": "comp-ll84pmc6",
+    "scale": 0.7692,
+    "desktop": {
+     "top": 96,
+     "left": 0,
+     "width": 980
+    },
+    "mobile": {
+     "top": 40,
+     "left": 20,
+     "width": 280
+    }
+   }
+  ],
+  "bottom_desktop": 63,
+  "bottom_mobile": 0
+ },
+ "terms-conditions": {
+  "parts": [
+   {
+    "kind": "text",
+    "id": "comp-ka26eb31",
+    "scale": 0.6429,
+    "desktop": {
+     "top": 42,
+     "left": 50,
+     "width": 400
+    },
+    "mobile": {
+     "top": 21,
+     "left": 36,
+     "width": 250
+    }
+   },
+   {
+    "kind": "text",
+    "id": "comp-ka25wdb2",
+    "scale": 0.5455,
+    "desktop": {
+     "top": 63,
+     "left": 45,
+     "width": 894
+    },
+    "mobile": {
+     "top": 19,
+     "left": 36,
+     "width": 244
+    }
+   }
+  ],
+  "bottom_desktop": 0,
+  "bottom_mobile": 20
+ },
+ "animation": {
+  "parts": [
+   {
+    "kind": "video",
+    "youtube": "M7dp2NipNUU",
+    "desktop": {
+     "top": 70,
+     "left": 0,
+     "width": 480,
+     "height": 270
+    },
+    "mobile": {
+     "top": 20,
+     "left": 20,
+     "width": 280,
+     "height": 158
+    }
+   },
+   {
+    "kind": "text",
+    "id": "comp-m7br0wns",
+    "scale": 0.7143,
+    "desktop": {
+     "top": 109,
+     "left": 0,
+     "width": 776
+    },
+    "mobile": {
+     "top": 40,
+     "left": 20,
+     "width": 280
+    }
+   }
+  ],
+  "bottom_desktop": 220,
+  "bottom_mobile": 0
+ }
+}

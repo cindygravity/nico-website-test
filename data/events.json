@@ -1,0 +1,74 @@
+{
+  "slug": "events",
+  "key": "events",
+  "label": "EVENTS",
+  "blocks": [
+    {
+      "id": "comp-ll84pmc6",
+      "html": "<h1 class=\"font_0\" style=\"font-size:26px;\"><span style=\"font-size:21px;\">Ausstellung/Current Exhibition</span><br>\n<br>\n<span style=\"font-size:24px;\"><span style=\"font-weight:bold;\">BL&Uuml;TEN TRAG</span></span><span style=\"font-size:24px;\"><span style=\"font-weight:bold;\">EN</span></span><br>\n<br>\n<span style=\"font-size:21px;\">LEA R&Ouml;WER &amp; NI</span><span style=\"font-size:21px;\">COLAS SCH&Uuml;TZINGER</span><br>\n<br>\n<span style=\"font-size:21px;\">10.08.2023 - 29.02.2024</span><br>\n<br>\n<span style=\"font-size:21px;\">Praxisr&auml;ume ARTIMEDES<br>\nGerichtstra&szlig;e 19.<br>\n13347 Berlin</span><br>\n<br>\n&nbsp;</h1>"
+    }
+  ],
+  "items": [
+    {
+      "file": "01-poster-ausstellung-nasti8-kopie.jpg",
+      "title": "",
+      "description": "",
+      "alt": "",
+      "width": 3626,
+      "height": 5079,
+      "wix_id": "128077c3-3cbe-4074-a389-d06bf1a73724",
+      "wix_media": "08a32c_9d329caa6b97454b998d0bc72ec31786~mv2.jpg"
+    },
+    {
+      "file": "02-poster-ausstellung.jpg",
+      "title": "",
+      "description": "",
+      "alt": "",
+      "width": 842,
+      "height": 1191,
+      "wix_id": "6fac208d-3a82-4ff5-809c-d680fc85f023",
+      "wix_media": "08a32c_93abb2f8d34f4afab3557a0a50b48404~mv2.jpg"
+    },
+    {
+      "file": "03-poster-ausstellung-jojo-kopie.jpg",
+      "title": "",
+      "description": "",
+      "alt": "",
+      "width": 3626,
+      "height": 5079,
+      "wix_id": "5bdbc9f0-fe2e-4be0-ab5b-2d84ab623ba7",
+      "wix_media": "08a32c_fb8f30338d11405ba2ef583332c29562~mv2.jpg"
+    },
+    {
+      "file": "04-poster-ausstellung-kopie.jpg",
+      "title": "",
+      "description": "",
+      "alt": "",
+      "width": 3508,
+      "height": 4961,
+      "wix_id": "2e9e118d-b7e3-4ff1-8c06-1afbdd35159f",
+      "wix_media": "08a32c_8a2a54707160427bb19d0089c5c5b4e1~mv2.jpg"
+    },
+    {
+      "file": "05-poster-ausstellung-franci2-kopie.jpg",
+      "title": "",
+      "description": "",
+      "alt": "",
+      "width": 3508,
+      "height": 4961,
+      "wix_id": "050afab0-704c-4fad-90ff-ccf04c79cd22",
+      "wix_media": "08a32c_c31721eb1f6440aa9a27abf14719c8ca~mv2.jpg"
+    },
+    {
+      "file": "06-poster-ausstellung-monika-kopie.jpg",
+      "title": "",
+      "description": "",
+      "alt": "",
+      "width": 3508,
+      "height": 4961,
+      "wix_id": "8e914fd1-cf7d-4a99-b3f9-e5c04f487eed",
+      "wix_media": "08a32c_2a0036fa2c5e4dc6b32f68abb4b1d458~mv2.jpg"
+    }
+  ],
+  "gallery_id": "comp-ll84mbqc"
+}

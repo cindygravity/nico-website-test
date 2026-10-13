@@ -1,0 +1,141 @@
+{
+  "slug": "",
+  "key": "home",
+  "label": "ART",
+  "blocks": [],
+  "items": [
+    {
+      "file": "01-painting.jpg",
+      "title": "PAINTING",
+      "description": "",
+      "alt": "",
+      "width": 3531,
+      "height": 4117,
+      "wix_id": "9091eaf8-9dc5-47ad-a4cb-1b3a38a1d70d",
+      "wix_media": "08a32c_cee1e1d7f9bb4b73bd317e49f471fab7~mv2.jpeg",
+      "link": "painting"
+    },
+    {
+      "file": "02-abstract-painting.jpg",
+      "title": "ABSTRACT PAINTING",
+      "description": "",
+      "alt": "ABSTRACT PAINTING",
+      "width": 3611,
+      "height": 2146,
+      "wix_id": "a2fd9dd9-ecfd-48d2-936e-57e5619a7696",
+      "wix_media": "08a32c_dc1043cea9514865ae91bbfbb7def273~mv2.jpg",
+      "link": "abstract-painting"
+    },
+    {
+      "file": "03-illustration.jpg",
+      "title": "ILLUSTRATION",
+      "description": "",
+      "alt": "",
+      "width": 3991,
+      "height": 2085,
+      "wix_id": "109479c2-a3c5-44a1-b827-ab27154b9172",
+      "wix_media": "08a32c_118e8310595c46cda1f8ce68a06e5b7b~mv2.jpg",
+      "link": "illustration"
+    },
+    {
+      "file": "04-abstract-graphic.jpg",
+      "title": "ABSTRACT GRAPHIC",
+      "description": "",
+      "alt": "",
+      "width": 5469,
+      "height": 4030,
+      "wix_id": "b5f9fae8-1ca4-41f2-b6d7-e89fdc901945",
+      "wix_media": "08a32c_303112b0808e4e2bb4f48bf08282cf9d~mv2.jpg",
+      "link": "abstract-graphic"
+    },
+    {
+      "file": "05-drawing.jpg",
+      "title": "DRAWING",
+      "description": "",
+      "alt": "",
+      "width": 3770,
+      "height": 2572,
+      "wix_id": "56a2087c-0328-48df-b64d-d0de4c1834ba",
+      "wix_media": "08a32c_639be5da6a954163beffeb4ff5cb6272~mv2.jpg",
+      "link": "drawing"
+    },
+    {
+      "file": "06-graphic.jpg",
+      "title": "GRAPHIC",
+      "description": "",
+      "alt": "",
+      "width": 2208,
+      "height": 2202,
+      "wix_id": "3d58f9ba-c297-45d2-84ad-bba03d8aaf3c",
+      "wix_media": "08a32c_da0ea1a7b38a4f16b58d48bc4c603d3d~mv2.jpg",
+      "link": "graphic"
+    },
+    {
+      "file": "07-erotic.jpg",
+      "title": "EROTIC",
+      "description": "",
+      "alt": "",
+      "width": 2691,
+      "height": 2815,
+      "wix_id": "f65b54b0-0aeb-4308-b023-12e31d8fa433",
+      "wix_media": "08a32c_42a2122d2b3e4fdc87ea598ba49edb05~mv2.jpg",
+      "link": "erotic"
+    },
+    {
+      "file": "08-leonce-lena.jpg",
+      "title": "LEONCE & LENA",
+      "description": "",
+      "alt": "",
+      "width": 2916,
+      "height": 3420,
+      "wix_id": "f89f465b-4329-4b00-8ae6-5fea3ba919f7",
+      "wix_media": "08a32c_c8d7791711574e719fc8b88024e25865~mv2.jpg",
+      "link": "leonce-lena"
+    },
+    {
+      "file": "09-body.jpg",
+      "title": "BODY",
+      "description": "",
+      "alt": "",
+      "width": 4522,
+      "height": 5762,
+      "wix_id": "e0259848-24c6-4b8e-8db4-1e39f2347146",
+      "wix_media": "08a32c_d3c612faae564dceb25de457b13b372e~mv2.jpg",
+      "link": "body"
+    },
+    {
+      "file": "10-animation.jpg",
+      "title": "ANIMATION",
+      "description": "",
+      "alt": "",
+      "width": 2880,
+      "height": 1610,
+      "wix_id": "3d6f7542-78f1-4da7-ace1-605f2f5e6b42",
+      "wix_media": "08a32c_e8c18c36441345029ceb0f32e75201f8~mv2.png",
+      "link": "animation"
+    },
+    {
+      "file": "11-object.jpg",
+      "title": "OBJECT",
+      "description": "",
+      "alt": "",
+      "width": 5503,
+      "height": 8124,
+      "wix_id": "6773f2a3-9f7c-4e12-94fb-6f2a20dea13b",
+      "wix_media": "08a32c_b44535b0ac6e4cfbb56bfdbacb63e21e~mv2.jpg",
+      "link": "projects-7"
+    },
+    {
+      "file": "12-commercial.jpg",
+      "title": "COMMERCIAL",
+      "description": "",
+      "alt": "",
+      "width": 3686,
+      "height": 3686,
+      "wix_id": "b9b752da-f98c-481c-8e90-3030e3f64b3a",
+      "wix_media": "08a32c_d05ae9df5f164a52a3372b7d248c53dc~mv2.jpg",
+      "link": "comercial"
+    }
+  ],
+  "gallery_id": "comp-j7dehqpw"
+}

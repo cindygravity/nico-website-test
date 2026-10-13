@@ -1,0 +1,249 @@
+{
+  "slug": "abstract-painting",
+  "key": "abstract-painting",
+  "label": "ABSTRACT PAINTING",
+  "blocks": [],
+  "items": [
+    {
+      "file": "01-the-gardener.jpg",
+      "title": "THE GARDENER",
+      "description": "120 x 95cm\noil on canvas\n2025",
+      "alt": "",
+      "width": 2390,
+      "height": 3017,
+      "wix_id": "9882cfaf-8f96-4578-88ac-2384b0986b96",
+      "wix_media": "08a32c_de24d67823cf48c19ec11b34ee3352ab~mv2.jpg"
+    },
+    {
+      "file": "02-night-and-day.jpg",
+      "title": "NIGHT AND DAY",
+      "description": "120 x 200cm\nmixed media on canvas\n2022",
+      "alt": "",
+      "width": 3611,
+      "height": 2146,
+      "wix_id": "746615bd-8005-489f-849b-fbffcb25642e",
+      "wix_media": "08a32c_dc1043cea9514865ae91bbfbb7def273~mv2.jpg"
+    },
+    {
+      "file": "03-you-and-me.jpg",
+      "title": "YOU AND ME",
+      "description": "140x130cm - 140x130cm\nmixed media on canvas\n2022/24",
+      "alt": "",
+      "width": 7387,
+      "height": 3881,
+      "wix_id": "78ff2ce1-0e21-4487-984e-777e5ba2c9ab",
+      "wix_media": "08a32c_718d2a3529c74a349b049b046610fbf9~mv2.jpg"
+    },
+    {
+      "file": "04-the-devine-feminine.jpg",
+      "title": "The Devine Feminine",
+      "description": "175 x 150cm\noil on canvas\n2023",
+      "alt": "",
+      "width": 1675,
+      "height": 1994,
+      "wix_id": "9afb74a8-9056-42ed-a73b-dafc29057af3",
+      "wix_media": "08a32c_2bc13529be004179881046518609b607~mv2.jpg"
+    },
+    {
+      "file": "05-rubinroter-dschungel.jpg",
+      "title": "Rubinroter Dschungel",
+      "description": "175 x 150cm\noil on canvas\n2023",
+      "alt": "",
+      "width": 1990,
+      "height": 2367,
+      "wix_id": "ea088cd2-9207-440b-8b9e-454ffa9c0601",
+      "wix_media": "08a32c_92950476c5044dddaad513024f0c0ec2~mv2.jpg"
+    },
+    {
+      "file": "06-white-nights.jpg",
+      "title": "WHITE NIGHTS",
+      "description": "85 x 120cm\noil on canvas\n2021",
+      "alt": "",
+      "width": 3822,
+      "height": 2679,
+      "wix_id": "da23e64b-9da2-4c5e-95c7-9038d4acfd63",
+      "wix_media": "08a32c_a4276af0bfaa4dd882ff46feed097183~mv2.jpg"
+    },
+    {
+      "file": "07-growing-space.jpg",
+      "title": "GROWING SPACE",
+      "description": "85 x 120cm\noil on canvas\n2021",
+      "alt": "",
+      "width": 3940,
+      "height": 2782,
+      "wix_id": "101a3f2f-7499-40aa-acbc-658bc9c21954",
+      "wix_media": "08a32c_1a3dff09eb2b45e7a930fd8da42357fb~mv2.jpg"
+    },
+    {
+      "file": "08-micro.jpg",
+      "title": "MICRO",
+      "description": "85 x 120cm\noil on canvas\n2021",
+      "alt": "",
+      "width": 3643,
+      "height": 2566,
+      "wix_id": "9c48726a-8069-4c6f-9a07-b109799442dc",
+      "wix_media": "08a32c_83ed8fa6c08a476aabaef241d3fa3a3e~mv2.jpg"
+    },
+    {
+      "file": "09-fish-hook.jpg",
+      "title": "FISH HOOK",
+      "description": "100 x 150cm\noil on canvas\n2020",
+      "alt": "",
+      "width": 3781,
+      "height": 2518,
+      "wix_id": "454c493a-0eee-4f64-98b8-f13b0a187dac",
+      "wix_media": "08a32c_33c719c1afda4337a05cf3692c36a069~mv2.jpg"
+    },
+    {
+      "file": "10-geist-von-herr-u-frau-thomas-mann.jpg",
+      "title": "GEIST VON HERR U. FRAU THOMAS MANN",
+      "description": "150 x 125cm\noil on canvas\n2021",
+      "alt": "",
+      "width": 3003,
+      "height": 3559,
+      "wix_id": "e3e26a7f-d313-4f6f-b963-10ba030fcddd",
+      "wix_media": "08a32c_93e34b2035fb47e5b9898ebbe9fa2ff6~mv2.jpg"
+    },
+    {
+      "file": "11-the-garden.jpg",
+      "title": "THE GARDEN",
+      "description": "200 x 180cm\noil on canvas\n2018",
+      "alt": "",
+      "width": 2952,
+      "height": 3271,
+      "wix_id": "e9283897-173d-449a-8390-5db25fb8b20d",
+      "wix_media": "08a32c_94e7581b31074215b711b4fc3395d562~mv2.jpg"
+    },
+    {
+      "file": "12-lullaby.jpg",
+      "title": "LULLABY",
+      "description": "100 x 150cm\noil on canvas\n2020",
+      "alt": "",
+      "width": 3942,
+      "height": 2626,
+      "wix_id": "085b8040-5a7d-42bb-a291-4d8f8670201e",
+      "wix_media": "08a32c_344785ee2bf3460a80eb6bb750786218~mv2.jpg"
+    },
+    {
+      "file": "13-nocturne.jpg",
+      "title": "NOCTURNE",
+      "description": "86 x 112cm\nmixed media on canvas\n2017",
+      "alt": "",
+      "width": 3258,
+      "height": 2502,
+      "wix_id": "ea76b24c-b3c7-4060-a709-62edd2ffa954",
+      "wix_media": "08a32c_8aa365bf69bf479b888f5ee946fe7949~mv2.jpg"
+    },
+    {
+      "file": "14-looking-out.jpg",
+      "title": "LOOKING OUT",
+      "description": "88 x 118cm\noil on canvas\n2017",
+      "alt": "",
+      "width": 3394,
+      "height": 2536,
+      "wix_id": "0f3eb099-c576-4d83-96e7-f172e8354d33",
+      "wix_media": "08a32c_a1b8220d93d44f6491b2c4be7fc9e792~mv2.jpg"
+    },
+    {
+      "file": "15-the-balcony.jpg",
+      "title": "THE BALCONY",
+      "description": "88 x 119cm\nmixed media on canvas\n2017",
+      "alt": "",
+      "width": 3327,
+      "height": 2446,
+      "wix_id": "65455aa8-c857-4651-b854-fd115cc17dc9",
+      "wix_media": "08a32c_e8fea71b90b944cea797cc1263dd9ee0~mv2.jpg"
+    },
+    {
+      "file": "16-female-nude-with-flowers.jpg",
+      "title": "FEMALE NUDE WITH FLOWERS",
+      "description": "90 x 140cm\noil and charcoal on canvas\n2017",
+      "alt": "",
+      "width": 3768,
+      "height": 2409,
+      "wix_id": "71a7f6ee-c69e-40d9-a992-e2caba042901",
+      "wix_media": "08a32c_d116efd5fdfa44a3bca191bb75381cfc~mv2.jpg"
+    },
+    {
+      "file": "17-animus.jpg",
+      "title": "ANIMUS",
+      "description": "150 x 80cm\noil on canvas\n2020",
+      "alt": "",
+      "width": 4106,
+      "height": 2166,
+      "wix_id": "73dd69ba-ea9f-4799-8714-fbcfd5e98e23",
+      "wix_media": "08a32c_d8a18263adbe41f2bb1087074e50e93c~mv2.jpg"
+    },
+    {
+      "file": "18-dreamy.jpg",
+      "title": "DREAMY",
+      "description": "100 x 150cm\noil on canvas\n2020",
+      "alt": "",
+      "width": 4044,
+      "height": 2664,
+      "wix_id": "59e4711b-25d2-4bbc-bd1f-849cc548de9a",
+      "wix_media": "08a32c_72a3c88bb6ea4532b97ef98c663284ca~mv2.jpg"
+    },
+    {
+      "file": "19-vulva-ii.jpg",
+      "title": "VULVA II",
+      "description": "120 x 85cm\noil on canvas\n2022",
+      "alt": "",
+      "width": 2766,
+      "height": 3915,
+      "wix_id": "9ea3f51a-4dfd-479a-84bc-80ab18e9fa5d",
+      "wix_media": "08a32c_8cbbd3c8b3844f2d8acee10f015b9901~mv2.jpg"
+    },
+    {
+      "file": "20-vulva.jpg",
+      "title": "VULVA",
+      "description": "120 x 85cm\noil on canvas\n2022",
+      "alt": "",
+      "width": 2712,
+      "height": 3851,
+      "wix_id": "821ef8fe-6754-428f-b615-eb89d1503aa9",
+      "wix_media": "08a32c_4a352afc048e48728cc20d0d43ebcd18~mv2.jpg"
+    },
+    {
+      "file": "21-tending-the-garden.jpg",
+      "title": "TENDING THE GARDEN",
+      "description": "150 x 100cm\noil on canvas\n2020\nprivate collection",
+      "alt": "",
+      "width": 2625,
+      "height": 3965,
+      "wix_id": "64a3c5e7-eb32-42f8-b303-ae19201dd226",
+      "wix_media": "08a32c_ba5fa4aa3e8b463abc3c20a0b6ea1f0a~mv2.jpg"
+    },
+    {
+      "file": "22-die-wassertraegerin.jpg",
+      "title": "DIE WASSERTRÄGERIN",
+      "description": "150 x 100cm\noil on canvas\n2020",
+      "alt": "",
+      "width": 2344,
+      "height": 3542,
+      "wix_id": "a74f3dee-03d7-4e6d-8d68-3ad3c33ba8f0",
+      "wix_media": "08a32c_c44bc409d5a149598d3570111e8b0074~mv2.jpg"
+    },
+    {
+      "file": "23-fingers.jpg",
+      "title": "FINGERS",
+      "description": "150 x 100cm\noil on canvas\n2020",
+      "alt": "",
+      "width": 2564,
+      "height": 3863,
+      "wix_id": "8637e150-99cf-4b99-92d2-7f2844e969ec",
+      "wix_media": "08a32c_625375ceb9e4438987079e30a0a27599~mv2.jpg"
+    },
+    {
+      "file": "24-full-of-space.jpg",
+      "title": "FULL OF SPACE",
+      "description": "150 x 100cm\noil and charcoal on canvas\n2020",
+      "alt": "",
+      "width": 2679,
+      "height": 4047,
+      "wix_id": "7d047603-b0ef-4cd3-a12d-28dc287af68a",
+      "wix_media": "08a32c_2859793fc45f4987badab5988a3ec68e~mv2.jpg"
+    }
+  ],
+  "gallery_id": "comp-j7futev9"
+}

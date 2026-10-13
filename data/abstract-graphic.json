@@ -1,0 +1,129 @@
+{
+  "slug": "abstract-graphic",
+  "key": "abstract-graphic",
+  "label": "ABSTRACT GRAPHIC",
+  "blocks": [],
+  "items": [
+    {
+      "file": "01-seascape.jpg",
+      "title": "SEASCAPE",
+      "description": "26 x 35cm\nmixed media on cardboard 2022",
+      "alt": "",
+      "width": 5469,
+      "height": 4030,
+      "wix_id": "20f76c8d-6501-445e-9186-925102c93462",
+      "wix_media": "08a32c_85ca0c8326d741fd8006509ef9c8ec4a~mv2.jpg"
+    },
+    {
+      "file": "02-dragon-and-goat.jpg",
+      "title": "DRAGON AND GOAT",
+      "description": "24 x 21cm\noil on cardboard\n2022",
+      "alt": "",
+      "width": 2672,
+      "height": 2854,
+      "wix_id": "54faa284-2f7e-4b67-96e6-680ab051d75a",
+      "wix_media": "08a32c_3102dbf3c29c4c57a430fb71de2c7e2e~mv2.jpg"
+    },
+    {
+      "file": "03-interieur.jpg",
+      "title": "INTERIEUR",
+      "description": "18 x 29cm\nmetal point on cardboard\n2020",
+      "alt": "",
+      "width": 3747,
+      "height": 2399,
+      "wix_id": "cdea2a87-4980-4c30-ad36-a274a89361c2",
+      "wix_media": "08a32c_2ec2eb0bf983424e9bc8d5bd5a58591d~mv2.jpg"
+    },
+    {
+      "file": "04-exterieur.jpg",
+      "title": "EXTERIEUR",
+      "description": "16 x 35cm\nmixed media on cardboard\n2020",
+      "alt": "",
+      "width": 4114,
+      "height": 1948,
+      "wix_id": "385d58ee-d2f1-4b4a-84d2-c76f65e2dbc0",
+      "wix_media": "08a32c_54aadecbdde84866aed862f3cf1b36cb~mv2.jpg"
+    },
+    {
+      "file": "05-dreamy.jpg",
+      "title": "DREAMY",
+      "description": "18 x 28cm\nmixed media on cardboard\n2020\nprivate collection",
+      "alt": "",
+      "width": 3177,
+      "height": 2094,
+      "wix_id": "70e33b99-292c-44e6-9cb5-a542c25d3504",
+      "wix_media": "08a32c_35495212640a41d9a6554217654047a7~mv2.jpg"
+    },
+    {
+      "file": "06-freaky.jpg",
+      "title": "FREAKY",
+      "description": "20 x 25cm\noil on cardboard\n2020",
+      "alt": "",
+      "width": 2890,
+      "height": 2362,
+      "wix_id": "25530936-9bea-4b65-9f05-9e98045db0d3",
+      "wix_media": "08a32c_c145dc5ec22948b7a4399c5d63ec2ec5~mv2.jpg"
+    },
+    {
+      "file": "07-oculus.jpg",
+      "title": "OCULUS",
+      "description": "17 x 23cm\nmixed media on cardboard\n2021",
+      "alt": "",
+      "width": 2557,
+      "height": 1845,
+      "wix_id": "b584992a-4186-4534-bee7-42127cea7bd8",
+      "wix_media": "08a32c_770a4c07a3a645f8b98f1c1190f320d6~mv2.jpg"
+    },
+    {
+      "file": "08-hot-soup.jpg",
+      "title": "HOT SOUP",
+      "description": "18 x 25cm\nmixed media on cardboard\n2021",
+      "alt": "",
+      "width": 3481,
+      "height": 2391,
+      "wix_id": "45d53af5-7958-4444-9a37-4b57de0ed1cc",
+      "wix_media": "08a32c_a05c550f0e6d4dd4a7712c557ff0b2f4~mv2.jpg"
+    },
+    {
+      "file": "09-botanik.jpg",
+      "title": "BOTANIK",
+      "description": "21 x 25cm\ncolored pencil and metal point on cardboard \n2021",
+      "alt": "",
+      "width": 3166,
+      "height": 2586,
+      "wix_id": "facaffda-27d9-45e0-a9f9-e690c5ad9f28",
+      "wix_media": "08a32c_3655e069106341a68e792544edcbdd4b~mv2.jpg"
+    },
+    {
+      "file": "10-sick-together.jpg",
+      "title": "SICK TOGETHER",
+      "description": "18 x 22cm\nmetal point on cardboard\n2022",
+      "alt": "",
+      "width": 4600,
+      "height": 3846,
+      "wix_id": "fce82f92-8d16-4526-8d75-70179367194d",
+      "wix_media": "08a32c_4270c16a774642cca43e1baf2c870817~mv2.jpeg"
+    },
+    {
+      "file": "11-geist-von-herr-u-frau-thomas-mann.jpg",
+      "title": "GEIST VON HERR U. FRAU THOMAS MANN",
+      "description": "23 x 19cm\nmetal point on cardboard\n2021",
+      "alt": "",
+      "width": 2301,
+      "height": 2793,
+      "wix_id": "dda47cfc-d970-48d1-84d5-38d2d34f7d00",
+      "wix_media": "08a32c_3d4e97a25e30451aae763892f9365c8a~mv2.jpg"
+    },
+    {
+      "file": "12-mannequin.jpg",
+      "title": "MANNEQUIN",
+      "description": "26 x 18cm\nmetal point on cardboard\n2020",
+      "alt": "",
+      "width": 2385,
+      "height": 3317,
+      "wix_id": "4c53e754-b51d-42cb-ae29-ce5a79fa596c",
+      "wix_media": "08a32c_127d428effc740bdad581c035342a8b5~mv2.jpg"
+    }
+  ],
+  "gallery_id": "comp-l5bdsw4k"
+}

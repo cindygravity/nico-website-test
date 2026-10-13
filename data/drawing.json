@@ -1,0 +1,149 @@
+{
+  "slug": "drawing",
+  "key": "drawing",
+  "label": "DRAWING",
+  "blocks": [],
+  "items": [
+    {
+      "file": "01-welk.jpg",
+      "title": "WELK",
+      "description": "35 x 50cm\ncolored pencil on paper\n2021",
+      "alt": "",
+      "width": 3770,
+      "height": 2572,
+      "wix_id": "23092ecc-a463-4a80-beea-ad35144a5f7d",
+      "wix_media": "08a32c_5223b945c39a47ed9dc0880c38bb6683~mv2.jpg"
+    },
+    {
+      "file": "02-sonnenblumen.jpg",
+      "title": "SONNENBLUMEN",
+      "description": "30 x 42cm\ncolored pencil on paper\n2021",
+      "alt": "",
+      "width": 4125,
+      "height": 2988,
+      "wix_id": "6df28d22-8754-4e00-a286-3312f80dbed4",
+      "wix_media": "08a32c_84d56f59c75c434488b25f526196ff56~mv2.jpg"
+    },
+    {
+      "file": "03-amaryllis.jpg",
+      "title": "AMARYLLIS",
+      "description": "33,5 x 29cm\nmixed media on paper\n2022",
+      "alt": "",
+      "width": 2905,
+      "height": 3277,
+      "wix_id": "0d633ba6-da6d-4c40-9413-07e51e13cd47",
+      "wix_media": "08a32c_303f31b840dc4be68ec38dfeadf2ad79~mv2.jpg"
+    },
+    {
+      "file": "04-erdbeerkaktus.jpg",
+      "title": "ERDBEERKAKTUS",
+      "description": "31 x 31\ncolored pencil on paper\n2020\nprivate collection",
+      "alt": "",
+      "width": 2747,
+      "height": 2722,
+      "wix_id": "e77ebd29-4d0d-4985-8ab3-cf90d88ee4f9",
+      "wix_media": "08a32c_51524b1e6b8a4bddbd9882e69271bc90~mv2.jpg"
+    },
+    {
+      "file": "05-hazy-daisy.jpg",
+      "title": "HAZY DAISY",
+      "description": "21 x 26cm\nmixed media on paper\n2020\nprivate collection",
+      "alt": "",
+      "width": 3422,
+      "height": 2791,
+      "wix_id": "3a87de47-3cc6-4ca0-a378-9447e8b9a065",
+      "wix_media": "08a32c_9c85000fda03488c8d19890efb30109d~mv2.jpg"
+    },
+    {
+      "file": "06-dao-am-fenster.jpg",
+      "title": "DAO AM FENSTER",
+      "description": "40 x 28cm\nacrylic and pencil on paper\n2015",
+      "alt": "",
+      "width": 2545,
+      "height": 3593,
+      "wix_id": "4925a236-2464-458b-8e26-077664490030",
+      "wix_media": "08a32c_be433a65dde24ac38597a7486c155734~mv2.jpg"
+    },
+    {
+      "file": "07-die-rote-vase.jpg",
+      "title": "DIE ROTE VASE",
+      "description": "40 x 27,5cm\nmixed media on cardboard\n2020",
+      "alt": "",
+      "width": 2548,
+      "height": 3695,
+      "wix_id": "0a3b3d8c-09c6-4d4d-8588-44b2ccd4f001",
+      "wix_media": "08a32c_7eedc0ab16a3483392b7e1a0606750fc~mv2.jpg"
+    },
+    {
+      "file": "08-elena.jpg",
+      "title": "ELENA",
+      "description": "37,5 x 40cm\ncolored pencil on paper\n2020",
+      "alt": "",
+      "width": 3247,
+      "height": 3118,
+      "wix_id": "0d2d6a3f-490f-4041-9a5f-c47e08c3af9b",
+      "wix_media": "08a32c_25268d6da5f945d4abf7950db182ca58~mv2.jpg"
+    },
+    {
+      "file": "09-kamilia.jpg",
+      "title": "KAMILIA",
+      "description": "65 x 50cm\npencil and colored pencil on paper\n2018",
+      "alt": "",
+      "width": 2245,
+      "height": 2903,
+      "wix_id": "e39d992e-8fff-47ad-aaa9-78a069594cf1",
+      "wix_media": "08a32c_1e0d05528bd44e4fa117c02bc9a76d01~mv2.jpg"
+    },
+    {
+      "file": "10-theresa.jpg",
+      "title": "THERESA",
+      "description": "37 x 45cm\npencil and colored pencil on paper\n2016",
+      "alt": "",
+      "width": 3226,
+      "height": 2690,
+      "wix_id": "4d269286-3b04-4528-ab6e-b34bdc073f5e",
+      "wix_media": "08a32c_84ffe237d0e340118ee0de37a8f68bd7~mv2.jpg"
+    },
+    {
+      "file": "11-selbst.jpg",
+      "title": "SELBST",
+      "description": "50 x 35cm\nmixed media on paper\n2015",
+      "alt": "",
+      "width": 2353,
+      "height": 3405,
+      "wix_id": "bf943730-1806-44a7-962d-cde35f083786",
+      "wix_media": "08a32c_0ee257b10cb949a5897a88d632ae4fd0~mv2.jpg"
+    },
+    {
+      "file": "12-chrysant.jpg",
+      "title": "CHRYSANT",
+      "description": "31 x 27,5cm\ncolored pencil on paper\n2020\nPrivate Collection",
+      "alt": "382.jpg",
+      "width": 2783,
+      "height": 3176,
+      "wix_id": "aeb9becc-8956-4738-a0c5-151e2dc14a48",
+      "wix_media": "08a32c_9f210ca88a794c50b9145c762f4e708d~mv2.jpg"
+    },
+    {
+      "file": "13-der-schwarze-topf.jpg",
+      "title": "DER SCHWARZE TOPF",
+      "description": "49 x 54cm\ncolored pencil on paper\n2016",
+      "alt": "",
+      "width": 3015,
+      "height": 2746,
+      "wix_id": "02bc748e-5c05-44e5-8bc7-7903cf125496",
+      "wix_media": "08a32c_9390f8eef7e1445b91917ce27fd95bea~mv2.jpg"
+    },
+    {
+      "file": "14-the-clock.jpg",
+      "title": "THE CLOCK",
+      "description": "30 x 57cm\nmixed media on paper\n2016",
+      "alt": "",
+      "width": 3830,
+      "height": 2067,
+      "wix_id": "1ddc2649-1e75-4d2d-9b44-b7d23f1c7d62",
+      "wix_media": "08a32c_44b5b9676b7b4e3f8b5a58eb823bfb60~mv2.jpg"
+    }
+  ],
+  "gallery_id": "comp-l5bfmiw7"
+}

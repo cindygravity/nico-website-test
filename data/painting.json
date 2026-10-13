@@ -1,0 +1,349 @@
+{
+  "slug": "painting",
+  "key": "painting",
+  "label": "PAINTING",
+  "blocks": [],
+  "items": [
+    {
+      "file": "01-ella-and-sarah.jpg",
+      "title": "ELLA AND SARAH",
+      "description": "130 x 100cm\noil on canvas\n2025",
+      "alt": "",
+      "width": 4456,
+      "height": 5799,
+      "wix_id": "b153b933-7a00-41a2-95f6-fdf61c69390b",
+      "wix_media": "08a32c_19a279ddea944b93985b7dbe468dfd39~mv2.jpg"
+    },
+    {
+      "file": "02-selbst.jpg",
+      "title": "SELBST",
+      "description": "100 x 80cm\noil on cardboard\n2025",
+      "alt": "",
+      "width": 4743,
+      "height": 6021,
+      "wix_id": "9ca4cf21-34f7-4a83-9889-ed284ad917b7",
+      "wix_media": "08a32c_62b210cca0ed4d29941f77aa6e10a75b~mv2.jpg"
+    },
+    {
+      "file": "03-father-with-child-dao-lilith.jpg",
+      "title": "FATHER WITH CHILD -\nDAO & LILITH",
+      "description": "110 x 80cm\noil on canvas\n2025/26",
+      "alt": "",
+      "width": 3398,
+      "height": 4700,
+      "wix_id": "bb97c434-f3cb-4766-bff2-55ee7992f4a6",
+      "wix_media": "08a32c_f91da3ab57a74d319d66716a9eaf87ca~mv2.jpg"
+    },
+    {
+      "file": "04-francesca-cosimo.jpg",
+      "title": "FRANCESCA & COSIMO",
+      "description": "110 x 140cm\noil on canvas\n2023/24\nprivate collection",
+      "alt": "",
+      "width": 4906,
+      "height": 3778,
+      "wix_id": "a7d06d11-104a-4354-84bb-9d421662f727",
+      "wix_media": "08a32c_feaaabae1e6d490b884c244072e792e9~mv2.jpg"
+    },
+    {
+      "file": "05-juno.jpg",
+      "title": "JUNO",
+      "description": "45 x 50cm\noil on cardboard\n2024",
+      "alt": "",
+      "width": 5407,
+      "height": 4802,
+      "wix_id": "aa93e1e5-912b-468f-a91c-43d9dfdd96b9",
+      "wix_media": "08a32c_6fb94c5b7576451caef1683d9d0a7c44~mv2.jpg"
+    },
+    {
+      "file": "06-lea-in-der-haengematte.jpg",
+      "title": "LEA IN DER HÄNGEMATTE",
+      "description": "35 x 40cm\noil on canvas\n2024\nprivate collection",
+      "alt": "",
+      "width": 5393,
+      "height": 4736,
+      "wix_id": "65b643d7-ccad-4bb8-bd40-3f8f124604cc",
+      "wix_media": "08a32c_de44a8a47608475ab57ee1dc72362ad4~mv2.jpg"
+    },
+    {
+      "file": "07-wohnungssuche.jpg",
+      "title": "WOHNUNGSSUCHE",
+      "description": "50 x 43cm\noil on canvas\n2022",
+      "alt": "",
+      "width": 3531,
+      "height": 4117,
+      "wix_id": "0aab5f6a-5b7f-47f4-b5db-ec78cd334c44",
+      "wix_media": "08a32c_cee1e1d7f9bb4b73bd317e49f471fab7~mv2.jpeg"
+    },
+    {
+      "file": "08-hedonismus.jpg",
+      "title": "HEDONISMUS",
+      "description": "40 x 45cm\noil on canvas\n2022",
+      "alt": "",
+      "width": 3792,
+      "height": 3356,
+      "wix_id": "cc497a37-3f31-4354-9476-f4c9b664cc30",
+      "wix_media": "08a32c_a5a72098c6e6477da8927a4c599c0b72~mv2.jpeg"
+    },
+    {
+      "file": "09-die-strumpfhose.jpg",
+      "title": "DIE STRUMPFHOSE",
+      "description": "150 x 125cm\noil on canvas\n2020\nprivate collection",
+      "alt": "",
+      "width": 2706,
+      "height": 3221,
+      "wix_id": "0fb6119f-5e1d-4bc0-a02f-2ad203b921a4",
+      "wix_media": "08a32c_bf3c1c98287b45d9946f745e609f33c0~mv2.jpg"
+    },
+    {
+      "file": "10-lea-with-nail-polish.jpg",
+      "title": "LEA WITH NAIL POLISH",
+      "description": "120 x 85cm\noil on canvas\n2022\nprivate collection",
+      "alt": "",
+      "width": 4715,
+      "height": 6615,
+      "wix_id": "e4937cc1-8f2e-4d17-9e46-deab8f1d63c6",
+      "wix_media": "08a32c_b5802dbbe29e4a349258d3b502386bbd~mv2.jpg"
+    },
+    {
+      "file": "11-the-tattoo.jpg",
+      "title": "THE TATTOO",
+      "description": "95 x 120cm\noil on canvas\n2022\nprivate collection",
+      "alt": "",
+      "width": 3273,
+      "height": 2589,
+      "wix_id": "f6506609-9f29-4689-aa9c-a93ab7d40820",
+      "wix_media": "08a32c_9ac2658f42d4470aacb9d62fce57297d~mv2.jpg"
+    },
+    {
+      "file": "12-stou.jpg",
+      "title": "STOU",
+      "description": "85 x 70cm\noil on canvas\n2021\nprivate collection",
+      "alt": "",
+      "width": 4709,
+      "height": 5763,
+      "wix_id": "150c1e63-c1a6-486d-93ec-3776d589adfd",
+      "wix_media": "08a32c_d2bea23258964a4483aeb9ff2affaacc~mv2.jpg"
+    },
+    {
+      "file": "13-nina.jpg",
+      "title": "NINA",
+      "description": "50 x 35cm\noil on canvas\n2020",
+      "alt": "",
+      "width": 2527,
+      "height": 3674,
+      "wix_id": "f922463a-20e6-445a-a618-0302c90f8fce",
+      "wix_media": "08a32c_1ea10316a1de47d2ba8d6abcdc2cbbdd~mv2.jpg"
+    },
+    {
+      "file": "14-mother-with-child.jpg",
+      "title": "MOTHER WITH CHILD",
+      "description": "200 x 210cm\noil on canvas\n2019",
+      "alt": "",
+      "width": 3076,
+      "height": 2934,
+      "wix_id": "efa3b441-2e4e-49b6-b7e5-b81ab54302be",
+      "wix_media": "08a32c_4781b8c3f71f49ca8393000de4337c25~mv2.jpg"
+    },
+    {
+      "file": "15-allegorie-des-mensch-seins-hope-and-grief.jpg",
+      "title": "ALLEGORIE DES MENSCH SEINS / HOPE AND GRIEF",
+      "description": "190 x 150cm\noil on canvas\n2017",
+      "alt": "",
+      "width": 2796,
+      "height": 3555,
+      "wix_id": "26daac4b-bdbb-40fd-bf7a-9a688540400d",
+      "wix_media": "08a32c_073e7fab8cdd40d1a58717deb81b2262~mv2.jpg"
+    },
+    {
+      "file": "16-contemplation.jpg",
+      "title": "CONTEMPLATION",
+      "description": "150 x 120cm\noil on canvas\n2020",
+      "alt": "",
+      "width": 2614,
+      "height": 3276,
+      "wix_id": "23b7697a-3e1e-4cba-bdf5-5280ecae65b0",
+      "wix_media": "08a32c_7c9d9bddbd0443fea9455b80ce2cf078~mv2.jpg"
+    },
+    {
+      "file": "17-hanna.jpg",
+      "title": "HANNA",
+      "description": "140 x 190cm\noil on canvas\n2019",
+      "alt": "",
+      "width": 3712,
+      "height": 2716,
+      "wix_id": "f9c301ea-30e9-4008-8fd0-defc44fb003c",
+      "wix_media": "08a32c_7efca4e306c24ab89c6efa14272eb979~mv2.jpg"
+    },
+    {
+      "file": "18-the-boys.jpg",
+      "title": "THE BOYS",
+      "description": "160 x 125cm\noil on canvas\n2021\nprivate collection",
+      "alt": "",
+      "width": 2841,
+      "height": 3656,
+      "wix_id": "24869dde-2da5-41a1-9bc5-497885bbc182",
+      "wix_media": "08a32c_e094d3cbda2f4f7c975aff6f046243c9~mv2.jpg"
+    },
+    {
+      "file": "19-elai-and-maya.jpg",
+      "title": "ELAI AND MAYA",
+      "description": "50 x 60cm\noil on cardboard\n2022",
+      "alt": "",
+      "width": 3169,
+      "height": 2674,
+      "wix_id": "efddb3d0-cf43-4fe8-8eec-a66f4d875e70",
+      "wix_media": "08a32c_39aa2337ffdc44c0a5ad0f0cb35b6968~mv2.jpg"
+    },
+    {
+      "file": "20-malika.jpg",
+      "title": "MALIKA",
+      "description": "120 x 95cm\noil on canvas\n2019",
+      "alt": "",
+      "width": 2834,
+      "height": 3583,
+      "wix_id": "fc3e2556-e29d-4947-bf87-2e2a1356ab24",
+      "wix_media": "08a32c_d4b9345259a04fcf974463aae5865662~mv2.jpg"
+    },
+    {
+      "file": "21-katharina.jpg",
+      "title": "KATHARINA",
+      "description": "100 x 80cm\noil on cardboard\n2021",
+      "alt": "",
+      "width": 2768,
+      "height": 3491,
+      "wix_id": "20be5a77-95b4-4c47-aa1b-08d1f60e997a",
+      "wix_media": "08a32c_20f413de88f24cb29aa87792a1043cfe~mv2.jpg"
+    },
+    {
+      "file": "22-malika-2.jpg",
+      "title": "MALIKA 2",
+      "description": "100 x 80cm\noil on cardboard\n2019\nprivate collection",
+      "alt": "",
+      "width": 4094,
+      "height": 5127,
+      "wix_id": "5fc99144-32d0-4016-8b25-ee57e7e5d850",
+      "wix_media": "08a32c_99812522400e4c5a8692f946b876c678~mv2.jpg"
+    },
+    {
+      "file": "23-kamilia.jpg",
+      "title": "KAMILIA",
+      "description": "100 x 80cm\noil on cardboard\n2021\nprivate collection",
+      "alt": "",
+      "width": 2796,
+      "height": 3485,
+      "wix_id": "6ecd495f-7d23-471b-aa6e-c4b13dde7fb5",
+      "wix_media": "08a32c_bd7b6e9b981740fbb3b9d068542c0fb8~mv2.jpg"
+    },
+    {
+      "file": "24-muessiggang.jpg",
+      "title": "MÜßIGGANG",
+      "description": "80 x 150cm\noil on canvas\n2019\nprivate collection",
+      "alt": "",
+      "width": 4370,
+      "height": 2304,
+      "wix_id": "b6eba286-8493-4edd-a6c7-dbe8ea178b40",
+      "wix_media": "08a32c_364131dd5b704d4199708b1c8562cf08~mv2.jpg"
+    },
+    {
+      "file": "25-again.jpg",
+      "title": "AGAIN",
+      "description": "200 x 180cm\noil on canvas\n2019",
+      "alt": "",
+      "width": 2956,
+      "height": 3318,
+      "wix_id": "c8feb0a8-98bb-4c47-8133-c42c6a331039",
+      "wix_media": "08a32c_6e5c3d0eb3124785b3d5db79f216309b~mv2.jpg"
+    },
+    {
+      "file": "26-jule-im-bad.jpg",
+      "title": "JULE IM BAD",
+      "description": "50 x 45cm\noil on canvas\n2018",
+      "alt": "",
+      "width": 2858,
+      "height": 3164,
+      "wix_id": "b5fc9ff0-f410-449d-9b02-f7df75083a81",
+      "wix_media": "08a32c_cdf7074f40924ab9be5ebb24138ba7a0~mv2.jpg"
+    },
+    {
+      "file": "27-der-saeufer.jpg",
+      "title": "DER SÄUFER",
+      "description": "125 x 108cm\noil on canvas\n2017\nprivate collection",
+      "alt": "",
+      "width": 2761,
+      "height": 3173,
+      "wix_id": "228349d5-b284-47b0-b47f-bcad9acd7a51",
+      "wix_media": "08a32c_d6197b4d3e7c443d940f3adb27fd125c~mv2.jpg"
+    },
+    {
+      "file": "28-wine-and-cigarettes.jpg",
+      "title": "WINE AND CIGARETTES",
+      "description": "200 x 175cm\noil on canvas\n2018\nprivate collection",
+      "alt": "",
+      "width": 2398,
+      "height": 2739,
+      "wix_id": "51829d20-5ae7-472f-ae2a-37afb10ae96d",
+      "wix_media": "08a32c_1304a661a8624fba9d535887db5f7700~mv2.jpg"
+    },
+    {
+      "file": "29-echo.jpg",
+      "title": "ECHO",
+      "description": "130 x 125cm\noil on canvas\n2020",
+      "alt": "",
+      "width": 2685,
+      "height": 2808,
+      "wix_id": "ba8f6d02-bec5-4a51-9659-b6ad5180eae9",
+      "wix_media": "08a32c_5acba812fb77477c9b795293c9dd7197~mv2.jpg"
+    },
+    {
+      "file": "30-laundry.jpg",
+      "title": "LAUNDRY",
+      "description": "100 x 80cm\noil on canvas\n2018",
+      "alt": "",
+      "width": 2628,
+      "height": 3302,
+      "wix_id": "cdeb413a-2e0b-47a7-bc95-53eb3167df32",
+      "wix_media": "08a32c_e0f4993ab8b44993bc5e5b1362aa011a~mv2.jpg"
+    },
+    {
+      "file": "31-waeschestaender-1.jpg",
+      "title": "WÄSCHESTÄNDER 1",
+      "description": "102 x 113cm\noil on canvas\n2016\nprivate collection",
+      "alt": "",
+      "width": 2937,
+      "height": 2636,
+      "wix_id": "06dc4a01-23fd-4e1a-a9ca-c8b0509598c6",
+      "wix_media": "08a32c_79a64704d9a54843823107c69d556e38~mv2.jpg"
+    },
+    {
+      "file": "32-waeschestaender-4.jpg",
+      "title": "WÄSCHESTÄNDER 4",
+      "description": "96 x 77cm\noil on canvas\n2017",
+      "alt": "",
+      "width": 2659,
+      "height": 3325,
+      "wix_id": "b45dcb10-35ea-4456-a1f0-9c18b42e02b4",
+      "wix_media": "08a32c_a0aa6fb97dce4442941088621b0b7130~mv2.jpg"
+    },
+    {
+      "file": "33-waeschestaender-6.jpg",
+      "title": "WÄSCHESTÄNDER 6",
+      "description": "300 x 180cm\noil on canvas\n2018\nprivate collection",
+      "alt": "",
+      "width": 3593,
+      "height": 2141,
+      "wix_id": "511e5f95-f996-4760-bf84-c8648f1f64ed",
+      "wix_media": "08a32c_14c475442be1437d815d34afde51e8a4~mv2.jpg"
+    },
+    {
+      "file": "34-blind-horse.jpg",
+      "title": "BLIND HORSE",
+      "description": "190 x 300cm\noil on canvas\n2018/19",
+      "alt": "",
+      "width": 3499,
+      "height": 2204,
+      "wix_id": "50ddef3d-2929-416a-9da3-13e9fc903653",
+      "wix_media": "08a32c_de3625992d684f7fb693d9f260d12372~mv2.jpg"
+    }
+  ],
+  "gallery_id": "comp-j7fv9e5h"
+}
