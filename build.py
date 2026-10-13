@@ -17,7 +17,7 @@ SITE = ROOT / "site"
 TPL = (ROOT / "templates" / "base.html").read_text(encoding="utf-8")
 
 NAME = "Nicolas Schützinger"
-ASSET_VERSION = "1"  # bei jeder CSS/JS-Änderung hochzählen, sonst zeigt der Browser die alte Datei
+ASSET_VERSION = "2"  # bei jeder CSS/JS-Änderung hochzählen, sonst zeigt der Browser die alte Datei
 
 # Reihenfolge = Reihenfolge im Menü. ART ist die Startseite, die Galerien hängen darunter.
 ART = ["painting", "abstract-painting", "illustration", "abstract-graphic", "drawing", "graphic",

@@ -128,7 +128,8 @@
 
   /* ---------- Großansicht ---------- */
 
-  function Lightbox(links) {
+  function Lightbox(getLinks) {
+    var links = getLinks();
     var box = document.createElement('div');
     box.className = 'lb';
     box.setAttribute('role', 'dialog');
@@ -144,6 +145,7 @@
     var index = -1, lastFocus = null;
 
     function show(i, push) {
+      links = getLinks();
       index = i;
       var a = links[i];
       img.removeAttribute('src');
@@ -156,6 +158,7 @@
       var hash = '#' + a.getAttribute('data-id');
       if (push) history.pushState({ lb: true }, '', hash); else history.replaceState({ lb: true }, '', hash);
       if (links[i + 1]) new Image().src = links[i + 1].getAttribute('href');
+      document.dispatchEvent(new CustomEvent('lb:show', { detail: { index: i, link: a } }));
     }
     function open(i, push) {
       lastFocus = document.activeElement;
@@ -168,6 +171,7 @@
       box.classList.remove('open');
       document.body.classList.remove('lb-on');
       index = -1;
+      document.dispatchEvent(new CustomEvent('lb:hide'));
       if (lastFocus && lastFocus.focus) lastFocus.focus();
     }
     function close() {
@@ -176,10 +180,10 @@
     }
     function step(d) { var i = index + d; if (index >= 0 && i >= 0 && i < links.length) show(i, false); }
 
-    links.forEach(function (a, i) {
+    links.forEach(function (a) {
       a.addEventListener('click', function (e) {
         if (e.metaKey || e.ctrlKey || e.shiftKey) return;
-        e.preventDefault(); open(i, true);
+        e.preventDefault(); open(getLinks().indexOf(a), true);
       });
     });
     prev.addEventListener('click', function () { step(-1); });
@@ -187,6 +191,7 @@
     box.querySelector('.lb-close').addEventListener('click', close);
     document.addEventListener('keydown', function (e) {
       if (index < 0) return;
+      if (/^(INPUT|TEXTAREA|SELECT)$/.test(e.target.tagName) && e.key !== 'Escape') return;
       if (e.key === 'Escape') close();
       else if (e.key === 'ArrowRight') step(1);
       else if (e.key === 'ArrowLeft') step(-1);
@@ -206,6 +211,7 @@
     function fromHash() {
       var id = decodeURIComponent(location.hash.slice(1));
       if (!id) return -1;
+      links = getLinks();
       for (var i = 0; i < links.length; i++) if (links[i].getAttribute('data-id') === id) return i;
       return -1;
     }
@@ -261,7 +267,8 @@
 
   reveal([].slice.call(document.querySelectorAll('.g-item, .s-item')));
   [].forEach.call(document.querySelectorAll('.slider'), Slider);
-  var zoomable = [].slice.call(document.querySelectorAll('.g-item[data-id], .s-item[data-id]'));
-  if (zoomable.length) Lightbox(zoomable);
+  var zoomable = function () { return [].slice.call(document.querySelectorAll('.g-item[data-id], .s-item[data-id]')); };
+  if (zoomable().length) Lightbox(zoomable);
   menu();
+  window.NSGallery = { relayout: relayout };
 })();

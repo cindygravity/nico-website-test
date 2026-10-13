@@ -1,6 +1,8 @@
 # Nicolas Schützinger — Website (Nachbau der Wix-Seite)
 
-Stand: 13.10.2026. Testfassung, läuft nur lokal. Nicht veröffentlicht, `noindex` ist gesetzt.
+Stand: 13.10.2026. Testfassung zum Zeigen, online unter https://cindygravity.github.io/nico-website-test/ (`noindex` ist gesetzt). Die offizielle Seite bleibt die bei Wix.
+
+Online aktualisieren: `python3 build.py`, committen, `git push`, dann `git subtree push --prefix site origin gh-pages`.
 
 Statische Seite ohne Framework. Der Ordner `site/` ist die fertige Website und kann so auf GitHub Pages.
 
